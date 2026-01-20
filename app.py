@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World! Voici mon TP Azure PaaS."
+    return "C'est incroyable ! La mise à jour est automatique !"
