@@ -23,5 +23,5 @@ Plateforme événementielle déployée sur Azure Kubernetes Service (AKS) avec u
    kubectl apply -f k8s/service.yaml
 
 ## 👤 Auteur
-- **Nom :** [VOTRE NOM]
+- **Nom :** DAYAWA Germain Mike
 - **Projet :** Master 2 Cybersécurité
