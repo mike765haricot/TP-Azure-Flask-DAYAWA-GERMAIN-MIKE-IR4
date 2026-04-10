@@ -24,4 +24,4 @@ Plateforme événementielle déployée sur Azure Kubernetes Service (AKS) avec u
 
 ## 👤 Auteur
 - **Nom :** DAYAWA Germain Mike
-- **Projet :** Master 2 Cybersécurité
+- **Projet :** Master 1 Cybersécurité
